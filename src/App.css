@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+#boxsize {
+  position: relative;
+  top: 20px;
+  right: 100px;
+  height: 200px;
+  width: 540px;
+  font-size: 15px;
+}
+
+#click-button {
+  position: relative;
+  left: 250px;
+  bottom: 24px;
+}
